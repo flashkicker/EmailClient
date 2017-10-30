@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\EmailSender_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.g.resources
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+c:\users\admin\documents\visual studio 2013\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
